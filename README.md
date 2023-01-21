@@ -5,27 +5,27 @@ It will hear and speak also
 
 # Requirements
 
-pyttsx3
-speech_recognition
-webbrowser
-pywikihow
-bs4
-pywhatkit
-wigoogletrans
-os
-subprocess
-pyautogui
-psutil
-tkinter
-requests
-time
-gTTS
-gtts
-PyPDF2
-pytube
-datetime
-playsound
-keyboard
+pyttsx3,
+speech_recognition,
+webbrowser,
+pywikihow,
+bs4,
+pywhatkit,
+wigoogletrans,
+os,
+subprocess,
+pyautogui,
+psutil,
+tkinter,
+requests,
+time,
+gTTS,
+gtts,
+PyPDF2,
+pytube,
+datetime,
+playsound,
+keyboard,
 pyjokes
 
 You Can Install Them By pip install [package name]
