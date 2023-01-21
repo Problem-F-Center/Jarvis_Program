@@ -6,12 +6,12 @@ It will hear and speak also
 # Requirements
 
 pyttsx3
-speech_recognition as sr
+speech_recognition
 webbrowser
-from pywikihow search_wikihow
-from bs4 BeautifulSoup
+pywikihow
+bs4
 pywhatkit
-wigoogletrans Translator
+wigoogletrans
 os
 subprocess
 pyautogui
